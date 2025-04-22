@@ -1,6 +1,15 @@
 # WebAppZoo
 # Система управления зоопарком, реализованная с использованием принципов Clean Architecture и концепций Domain-Driven Design.
 **Выполнил:** Растворов Сергей 236
+## Запуск
+```bash
+git clone https://github.com/krevetka-is-afk/WebAppZoo.git
+cd WebAppZoo/WebAppZoo/WebApplicationZOO
+dotnet build
+dotnet run
+```
+
+
 ## Реализованный функционал
 
 ### 1. Доменная модель (Domain Layer)
