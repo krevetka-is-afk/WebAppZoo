@@ -8,7 +8,7 @@ cd WebAppZoo/WebAppZoo/WebApplicationZOO
 dotnet build
 dotnet run
 ```
-
+`http://localhost:5036/swagger/index.html`
 
 ## Реализованный функционал
 
